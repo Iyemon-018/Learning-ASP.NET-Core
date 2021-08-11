@@ -14,3 +14,5 @@ ASP.NET Core 学習用のリポジトリです。
 ### [チュートリアル: ASP.NET Core の Razor Pages の概要](https://docs.microsoft.com/ja-jp/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-5.0&tabs=visual-studio)
 
 [Tutorial02](./Tutorial02/RazorPagesMovie)
+
+- [パート 2: ASP.NET Core で Razor ページ アプリにモデルを追加する](https://docs.microsoft.com/ja-jp/aspnet/core/tutorials/razor-pages/model?view=aspnetcore-5.0&tabs=visual-studio)
